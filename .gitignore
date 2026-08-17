@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+~$*.pbix
+.Rhistory
+.DS_Store
+data/online_retail*.csv
+data/retail_clean.csv
